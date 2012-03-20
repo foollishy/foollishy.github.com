@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>呆Dai</title>
+ <link href="http://i.macfon.org/atom.xml" rel="self"/>
+ <link href="http://i.macfon.org/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://i.macfon.org/</id>
+ <author>
+   <name>Li Shuyan</name>
+   <email>lishuyan@gmail.com</email>
+ </author>
+
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://i.macfon.org{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   {% if post.guid %}<id>{{ post.guid }}</id>{% else %}<id>http://i.macfon.org{{ post.id }}</id>{% endif %}
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>
