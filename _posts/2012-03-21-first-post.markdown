@@ -2,12 +2,17 @@
 title: '开始认真地学习写点东西'
 layout: post
 tags:
-    - life
+    - life - writing
 ---
 
-写文章的水平逐年下降，这样不好，是时候开始练习了。
+自己书面表达能力比较差，不能简洁、流畅地将自己的想法表达出来是很沮丧的，
+我觉得有必要进行训练。而训练最好的方法就是多阅读、勤作文了吧。因此这里
+的文章将会以读书笔记(真的只是笔记，可能很少会有心得)及习作为主。
 
-赶時髦，用 Jekyll 和 [Github](http://github.com) 弄了个 blog。我不会写
-代码，甚至 HTML 和 CSS 也不太懂，这个站基本是照搬了[这里](https://github.com/waynezhang/blog)，对[作者](http://lhzhang.com/)表示感谢。我会慢慢地开始学习 CSS，再把这里改一改。
+最近比较流行用 [Jekyll](https://github.com/mojombo/jekyll) 结合 [Github](http://github.com) 建立静态网站，我
+也赶个时髦，弄了个 blog。天生愚钝如我，不会写
+代码，HTML 和 CSS 也不太懂，参考网上的教程弄懂了大概的流程，然后在
+[这里](https://github.com/waynezhang/blog)找了个模板，clone 过来，简单
+地改了下就上线了。在这里对[作者](http://lhzhang.com/)表示感谢。我会慢慢地开始学习 CSS，再把这里改一改。
 
-匆匆在今天上线是有原因的。两年前的今天，我家宝贝女儿诞生了！宝贝，生日快乐！爸爸永远爱你！
+匆匆在今天上线是有原因的。两年前的今天，我家宝贝女儿诞生了！我要对她说:"宝贝，生日快乐！爸爸永远爱你！"
