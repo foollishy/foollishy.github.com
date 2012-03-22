@@ -21,7 +21,7 @@ Dell OptiPlex 755 的操作系统是 OEM 版的 Windows 7，MBP 上是 Snow Leop
 
 Email 控，曾经申请过很多电子邮箱服务，目前主力邮箱为 Gmail，还有一个 me.com 作备用。此外日历和 todo list 也都是用 Google 家的。
 
-我在 PC 和 Mac 上都安装了 Dropbox，用于同步文档，这是我的[邀请链接](http://db.tt/KWBVCt2)(用这个链接注册可以使你我的空间都增加 250MB。)
+我在 PC 和 Mac 上都安装了 Dropbox，用于同步文档，这是我的[邀请链接](http://db.tt/KWBVCt2)(用这个链接注册可以使你我的空间都增加 250MB)。
 
 经常在 [V2EX](http://v2ex.com) 和 [HP](http://hi-pda.com/forum/) 潜水。
 
