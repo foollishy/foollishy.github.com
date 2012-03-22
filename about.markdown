@@ -3,8 +3,7 @@ title: About me
 layout: page
 ---
 
-普通网民，天生愚钝，不善言辞；有时发呆，一直很呆；兴趣广泛，涉猎众多，
-"知道分子"。
+普通网民，天生愚钝，不善言辞；有时发呆，一直很呆；兴趣广泛，涉猎众多，"知道分子"。
 
 年过三十，痛改前非，决心脚踏实地学习。目前在研读
 [Word Power Made Easy](http://www.amazon.cn/Word-Power-Made-Easy-The-Complete-Handbook-for-Building-a-Superior-Vocabulary-Lewis-Norman/dp/067174190X/ref=sr_1_1?ie=UTF8&qid=1332423432&sr=8-1)
@@ -14,9 +13,7 @@ layout: page
 
 ## 硬件 ##
 
-在办公室我用一台 Dell OptiPlex 755 进行简单的文字处理，在家主要用一台
-13-inch, Early 2011 的 MacBook Pro，手机是 Motorola Milestone。我还有一
-只 Kindle 4，主要用来看英语原版书籍。
+在办公室我用一台 Dell OptiPlex 755 进行简单的文字处理，在家主要用一台 13-inch, Early 2011 的 MacBook Pro，手机是 Motorola Milestone。我还有一只 Kindle 4，主要用来看英语原版书籍。
 
 ## 软件 ##
 
