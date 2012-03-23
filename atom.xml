@@ -10,8 +10,7 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://i.macfon.org/</id>
  <author>
-   <name>Li Shuyan</name>
-   <email>lishuyan@gmail.com</email>
+   <name>foollishy</name>
  </author>
 
  {% for post in site.posts limit:10 %}

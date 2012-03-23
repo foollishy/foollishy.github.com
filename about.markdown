@@ -9,6 +9,8 @@ layout: page
 
 # I Use These #
 
+我用的工具：
+
 ## 硬件 ##
 
 在办公室我用一台 Dell OptiPlex 755 进行简单的文字处理，在家主要用一台 13-inch, Early 2011 的 MacBook Pro，手机是 Motorola Milestone。我还有一只 Kindle 4，主要用来看英语原版书籍。
