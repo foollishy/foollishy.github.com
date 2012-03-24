@@ -23,7 +23,7 @@ tags:
 
 - 在 U 盘根目录下新建一个名为 Home 的文件夹，然后把你的 .emacs 文件、.emacs.d 文件夹等都放进去。
 
-- 搞定!
+搞定!
 
 [pigpog]: http://pigpog.com/2007/10/22/portable-emacs-onna-stick/ "Portable Emacs-onna-Stick – USB Geekiness"
 [emacs]: http://ftp.gnu.org/pub/gnu/emacs/windows/ "GNU Emacs"
