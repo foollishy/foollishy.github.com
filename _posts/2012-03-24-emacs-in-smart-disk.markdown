@@ -11,7 +11,7 @@ tags:
 
 - 在[官网][emacs]下载后解压至 U 盘;
 
-- 在安装目录下的 /site-lisp/site-start.el 文件中中添加下面三行代码:
+- 在安装目录下的 /site-lisp/site-start.el 文件中添加下面三行代码:
 
 <pre class="lisp">
 <code>
