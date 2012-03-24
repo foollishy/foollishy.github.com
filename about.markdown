@@ -17,7 +17,7 @@ layout: page
 
 ## 软件 ##
 
-Dell OptiPlex 755 的操作系统是 OEM 版的 Windows 7，MBP 上是 Snow Leopard，升级到了最新版本。我用 MS Word 处理公文，XeTeX 和 Beamer 写讲稿和幻灯片，Emacs 是我主要的文本编辑器，我用其 [Org-mode](http://orgmode.org) 做 GTD，还在 U 盘上安装了一个(但是很少使用)。PC 上的浏览器主要是 Chrome，Mac 上只使用 Safari(未安装其它浏览器)。
+Dell OptiPlex 755 的操作系统是 OEM 版的 Windows 7，MBP 上是 Lion，升级到了最新版本。我用 MS Word 处理公文，XeTeX 和 Beamer 写讲稿和幻灯片，Emacs 是我主要的文本编辑器，我用其 [Org-mode](http://orgmode.org) 做 GTD，还在 U 盘上安装了一个(但是很少使用)。PC 上的浏览器主要是 Chrome，Mac 上只使用 Safari(未安装其它浏览器)。
 
 ## 网络应用 ##
 
