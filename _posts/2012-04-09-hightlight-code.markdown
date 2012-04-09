@@ -1,5 +1,5 @@
 ---
-title: '从"代码高亮"说开去'
+title: '从代码高亮说开去'
 layout: post
 tags:
     - learning
