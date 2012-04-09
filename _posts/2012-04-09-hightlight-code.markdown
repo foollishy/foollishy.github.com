@@ -27,4 +27,4 @@ tags:
 
 双击就可以将单词以不同的颜色显示；鼠标放到加亮的单词上会出现中文释义，同时还有发音；打开新网页，如果此页包含有以前标记过的单词，则会自动高亮显示。此扩展还支持将单词生成卡片、导出等功能，真是记忆单词的好帮手!
 
-下载地址: https://chrome.google.com/webstore/detail/odhiddefamddbjhpaoagfkmgkkfhjnkd
+[下载地址](https://chrome.google.com/webstore/detail/odhiddefamddbjhpaoagfkmgkkfhjnkd)
