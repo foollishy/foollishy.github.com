@@ -3,7 +3,6 @@ title: '分享我制作的 Word Power Made Easy 单词音频'
 layout: post
 tags:
     - learning
-	- share
 ---
 
 去年 11 月份在 [hi-pda][hi-pda] 的 [e-ink][e-ink] 版看到有人介绍 Word Power Made Easy 这本书，评价很高，在[亚马逊][amazon]上看了下好像也不错，当即下单。
