@@ -24,8 +24,7 @@ tags:
 
 下载地址:
 
-- [Dropbox](https://www.dropbox.com/sh/qsbl9r1e8bvfsqk/eW6XpGcHJf)
-- [迅雷快传](http://kuai.xunlei.com/d/YBEJWAWCRELJ)
+- [百度云网盘](http://pan.baidu.com/s/1hqsrcyC)
 
 第三个坑(扇贝网的词串)正在填，如果你也是扇贝用户可以到词串中搜索 Word Power Made Easy 添加。至于第二个坑，呵呵。。。
 
